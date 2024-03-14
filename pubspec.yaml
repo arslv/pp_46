@@ -1,0 +1,75 @@
+name: pp_46
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  google_fonts: ^4.0.4
+  flutter_svg: ^2.0.9
+  url_launcher: ^6.2.4
+  image_picker: ^1.0.7
+  connectivity_plus: ^5.0.2
+  in_app_review: ^2.0.8
+  flutter_app_info: ^2.0.0
+  flutter_markdown: ^0.6.18+3
+
+  #webview
+  webview_flutter: ^4.4.4
+  webview_flutter_wkwebview: ^3.10.2
+  webview_flutter_android: ^3.13.2
+
+  #provider
+  path_provider: ^2.1.2
+  theme_provider: ^0.6.0
+
+  #injections
+  get_it: ^7.6.4
+
+  #data base
+  hive_flutter: ^1.1.0
+  hive: ^2.2.3
+
+  speech_to_text: ^6.6.0
+  intl: ^0.19.0
+
+  firebase_core: ^2.25.4
+  firebase_remote_config: ^4.3.8
+  firebase_crashlytics: ^3.4.9
+
+  flutter_native_splash: ^2.3.9
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  build_runner: ^2.4.7
+  hive_generator: ^2.0.1
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  image_path: "assets/images/icon.png"
+
+flutter_native_splash:
+  color: "#FFFFFF"
+  image: assets/images/icon.png
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/vectors/
+  fonts:
+    - family: SF-Pro-Display
+      fonts:
+        - asset: assets/fonts/SF-Pro-Display-Regular.otf

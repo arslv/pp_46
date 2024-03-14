@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924678916573",
+    "project_id": "frbasepp46",
+    "storage_bucket": "frbasepp46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924678916573:android:4671733004525665450e34",
+        "android_client_info": {
+          "package_name": "com.example.pp_46"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlzwSDDcxrylAM-EL3YX0ZtdXG8LZat3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

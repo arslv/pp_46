@@ -1,0 +1,18 @@
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 8">
+<g id="Ellipse 11" filter="url(#filter0_b_15_3458)">
+<path d="M35 17.5C35 27.165 27.165 35 17.5 35C7.83502 35 0 27.165 0 17.5C0 7.83502 7.83502 0 17.5 0C27.165 0 35 7.83502 35 17.5Z" fill="#1D1D1D" opacity="0.4"/>
+</g>
+<g id="icon arrow left">
+<path id="Vector" d="M18.58 22.2831L14.6542 18.3573C14.1906 17.8936 14.1906 17.135 14.6542 16.6713L18.58 12.7455" stroke="white" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_b_15_3458" x="-40" y="-40" width="115" height="115" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="20"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_15_3458"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_15_3458" result="shape"/>
+</filter>
+</defs>
+</svg>
